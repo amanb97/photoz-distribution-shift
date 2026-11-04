@@ -68,7 +68,7 @@ The model’s uncertainty estimates are broadly reliable on B and C but become o
 
 The probability integral transform (PIT) measures where each galaxy’s true redshift falls within its predicted distribution. An approximately flat histogram supports overall uncertainty calibration.
 
-![PIT histograms for Teddy A-validation, B, C and D](docs/pit_histograms.png)
+![PIT histograms for Teddy A-validation, B, C and D](pit_histograms.png)
 
 B and C have approximately flat histograms, while D shows concentrations near the edges, indicating that many true redshifts fall in the tails of the predicted distributions.
 

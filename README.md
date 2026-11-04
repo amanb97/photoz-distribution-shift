@@ -2,7 +2,7 @@
 
 ### Evaluating photometric redshift uncertainty with a mixture density network
 
-This project uses a PyTorch mixture density network (MDN) to predict galaxy redshift probability distributions from photometric measurements. It investigates whether those predictions remain accurate and their uncertainties remain calibrated when the test galaxies differ from the training sample.
+This project uses a mixture density network (MDN) to predict galaxy redshift probability distributions from photometric measurements. It investigates whether those predictions remain accurate and their uncertainties remain calibrated when the test galaxies differ from the training sample.
 
 A single MDN has been trained and evaluated on Teddy A-validation, B, C and D, with additional diagnostics for extreme outlier predictions.
 
